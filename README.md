@@ -11,4 +11,4 @@ Have you learned something new that you think others could benefit from learning
 
 ## Links to learning resources
 
-Nothing yet, but check back soon!
+Learn JSON Schemas: [https://github.com/MorganMcKinleyRDI/learn-json-schema](https://github.com/MorganMcKinleyRDI/learn-json-schema)
